@@ -1,0 +1,256 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "fontSize": 22.0,
+      "title": "Sokocentre",
+      "showSearch": true,
+      "showMenu": true,
+      "isSafeArea": true
+    },
+      {
+          "layout": "bannerImage",
+          "isSlider": true,
+          "showBackground": true,
+          "upHeight": 100.0,
+          "padding": 10.0,
+          "radius": 10.0,
+          "fontSize": 26.0,
+          "items": [
+            
+            {
+              "category": 208,
+              "background": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/vegetablebg.png",
+              "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/vegetable.png"
+            },
+            {
+              "category": 208,
+              "background": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/shoesbg.png",
+              "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/shoes.png"
+            },
+            {
+              "category": 208,
+              "background": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/electronicbg.png",
+              "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/electronic.png"
+            },
+            {
+              "category": 23,
+              "background": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/fashionbg.png",
+              "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/sliders/fashion.png"
+            }
+          ]
+        },
+        
+        {
+          "name": {
+            "en": "Electronics",
+            "ab": "مجموعات الرجل",
+            "vi": "Bộ sưu tập cho đàn ông"
+          },
+          "image": "",
+          "layout": "fourColumn",
+          "category": 74
+        }, 
+    {
+      "name": {
+        "en": "Fashion Accessories",
+        "ab": "مجموعات المرأة",
+        "vi": "Bộ sưu tập cho phụ nữ"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 76
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 264,
+          "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/banners/groceries.png",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Groceries",
+        "ab": "مجموعات المرأة",
+        "vi": "Bộ sưu tập cho phụ nữ"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 80
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 263,
+          "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/banners/health.png",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Health & Beauty",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 136
+    },
+    
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 263,
+          "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/banners/books.png",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Books & Stationery",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 133
+    },
+    {
+      "name": {
+        "en": "Garden & Outdoors",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 135
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 263,
+          "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/banners/vegetables.png",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Vegetables",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 263
+    },
+    {
+      "name": {
+        "en": "Fans & Woven fans",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 75
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 263,
+          "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/banners/furniture.png",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Furniture",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 73
+    },
+    {
+      "name": {
+        "en": "Television & Entertainment",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 119
+    },
+    {
+      "name": {
+        "en": "Household Appliances",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 123
+    },
+    {
+      "name": {
+        "en": "Agricultural Inputs",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 68
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 263,
+          "image": "https://raw.githubusercontent.com/adinortey360/sokocentreassets/main/banners/shoes.png",
+          "padding": 0.0,
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Shoes & Footwear",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 99
+    },
+    {
+      "name": {
+        "en": "Clothing",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "fourColumn",
+      "category": 98
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list"
+  }
+}
