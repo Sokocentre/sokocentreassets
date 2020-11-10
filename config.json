@@ -12,9 +12,9 @@
           "layout": "bannerImage",
           "isSlider": true,
           "showBackground": false,
-          "upHeight": 2.0,
+          "upHeight": 20.0,
           "padding": 0.0,
-          "radius": 3.0,
+          "radius": 6.0,
           "fontSize": 26.0,
           "items": [
             
