@@ -12,7 +12,7 @@
           "layout": "bannerImage",
           "isSlider": true,
           "showBackground": false,
-          "upHeight": 20.0,
+          "upHeight": 15.0,
           "padding": 0.0,
           "radius": 6.0,
           "fontSize": 26.0,
