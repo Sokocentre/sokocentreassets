@@ -250,7 +250,7 @@
     }
   ],
   "Setting": {
-    "MainColor": "#ffffff",
+    "MainColor": "#000000",
     "ProductListLayout": "list"
   }
 }
